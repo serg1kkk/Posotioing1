@@ -1,0 +1,16 @@
+element.style{
+  width: 200px;
+}
+body {
+
+
+}
+div{
+  width: 400px;
+  height: 400px;
+    background-color: #3a3a3a;
+    color: white;
+    padding: 20px;
+    border: 15px solid blue;
+    margin: 75px;
+}
